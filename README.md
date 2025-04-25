@@ -13,7 +13,7 @@ Suna's powerful toolkit includes seamless browser automation to navigate the web
 
 [![License](https://img.shields.io/badge/License-Apache--2.0-blue)](./license)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sunaagent)](https://x.com/sunaagent)
-[![GitHub Repo stars](https://img.shields.io/github/stars/kortix-ai/suna)](https://github.comAgentSuna/suna)
+[![GitHub Repo stars](https://img.shields.io/github/stars/agentsuna/suna)](https://github.com/AgentSuna/suna)
 </div>
 
 
@@ -32,8 +32,6 @@ Suna's powerful toolkit includes seamless browser automation to navigate the web
 - [License](#license)
 
 ## Project Architecture
-
-![Architecture Diagram](docs/images/diagram.png)
 
 Suna consists of four main components:
 
