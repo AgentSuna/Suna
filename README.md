@@ -231,12 +231,6 @@ python api.py
    - Sign up for an account using the Supabase authentication
    - Start using your self-hosted Suna instance!
 
-## Acknowledgements
-
-### Main Contributors
-- [Adam Cohen Hillel](https://x.com/adamcohenhillel)
-- [Dat-lequoc](https://x.com/datlqqq)
-- [Marko Kraemer](https://twitter.com/markokraemer)
 
 ### Technologies
 - [Daytona](https://daytona.io/) - Secure agent execution environment
